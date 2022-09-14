@@ -1,0 +1,11 @@
+requests
+pandas
+sklearn
+numpy
+keras
+flask
+nltk
+pickle5
+tensorflow
+seaborn
+scikeras
